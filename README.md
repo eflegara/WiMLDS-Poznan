@@ -1,5 +1,7 @@
 # WiMLDS Poznan Meetup
 
+<img src="title slide.png" width="75%">
+
 Sharing the [slide deck](https://github.com/eflegara/WiMLDS-Poznan/blob/master/wimlds_poznan.pdf) I used during the first online meetup organized by [WiMLDS Poznań](http://wimlds.org/about-the-poznan-team/).
 
 ## Resources used and papers discussed
